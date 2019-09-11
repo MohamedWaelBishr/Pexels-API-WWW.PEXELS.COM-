@@ -1,5 +1,4 @@
 # Pexels-API-WWW.PEXELS.COM-
-![PEXELS.COM LOGO ](https://media.giphy.com/media/3ELODh3u7T8Qg/giphy.gif)
 ![PEXELS.COM LOGO ](https://www.pexels.com/assets/pexels-logo-7e4af4630e66b6b786567041874586aeb1b5217589035c70a0def15aacd0f11a.png)
 ![PEXELS.COM LOGO ](https://media.giphy.com/media/3ELODh3u7T8Qg/giphy.gif)
 ## Pexels API Using Python3
