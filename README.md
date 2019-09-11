@@ -1,13 +1,15 @@
 # Pexels-API-WWW.PEXELS.COM-
-
+![PEXELS.COM LOGO ](https://www.pexels.com/assets/pexels-logo-7e4af4630e66b6b786567041874586aeb1b5217589035c70a0def15aacd0f11a.png)
 ## Pexels API Using Python3
 
 #### [Pexels API Using Python Can Use In Gather Datasets]
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+```diff
++ These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
++ See deployment for notes on how to deploy the project on a live system.
+```
 
 ## All you have to do is change the APIKEY and the AuthToken With yours :D
 
@@ -36,7 +38,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Running Test On Video API
 
-![Runing Test](https://j.top4top.net/p_1349uhsls1.gif)
+```diff
+! https://q.top4top.net/p_1349yxeze1.gif
+```
+
 
 ## Authors
 
